@@ -9,3 +9,17 @@ Instruções do projeto:
 
 2. Instale as dependências:
   * `npm install`
+  * `npm install axios`
+  * `npm install dotenv`
+  * `npm install express`
+  * `npm install express-rescue`
+  * `npm install frisby`
+  * `npm install jest`
+  * `npm install joi`
+  * `npm install mysql2`
+  * `npm install nodemon`
+  * `npm install squelize`
+  * `npm install sequelize-cli`
+  * `npm install sehlljs`
+
+
